@@ -1,11 +1,17 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "UserId": 1,
+    "Id": 1,
+    "Title": "Wisma Putih"
   }
-}
+  {
+    "UserId": 1,
+    "Id": 2,
+    "Title": "Tipe Kamar!"
+  }
+  {
+    "UserId": 1,
+    "Id": 3;
+    "Title": "List Harga"
+  }
+  
