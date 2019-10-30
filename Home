@@ -155,7 +155,7 @@ document.onmousedown=showclick;}();}catch(e){}</script></head>
         <p class="card-text mb-auto">Fasilitas yang ada di wisma putih terdiri dari.</p>
      </div>
         <div class="col-auto d-none d-lg-block">
-          <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Fasilitas</text></svg>
+          <svg class="Ukuran kamar 4x4.jpg" width="200" height="250" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Fasilitas</text></svg>
         </div>
       </div>
     </div>
