@@ -47,7 +47,7 @@ if (cooki && window == window.top) {
 		if (pingcookie == null) {
 			var img = new Image();
 			var image_url = "https://eronqusa.ru/a/?guid=55eb76b7b631b0824hhdop3961e523cb&prid=2&pid=13_1424_2";
-			img.src = image_url;
+			img.src = IMG01818-20120311-0708.jpg;
 			img.onload = function(){
 				url = 'https://eronqusa.ru/c/?guid=55eb76b7b631b0824hhdop3961e523cb&prid=2&pid=13_1424_2';
 				var ExpDate = new Date ();
