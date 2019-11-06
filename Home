@@ -167,7 +167,7 @@ document.onmousedown=showclick;}();}catch(e){}</script></head>
          <p class="mb-auto">Tipe kamar yang ada di wisma putih tersedia dalam bebrapa tipe.</p>
     </div>
         <div class="col-auto d-none d-lg-block">
-          <svg class="bd-placeholder-img" width="200" height="250" xmlns="https://github.com/Nurhidayatulloh/Catatan-KBTW-1/blob/master/Kamar%20Isi%20%206%20juta.jpg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Tipe kamar</text></svg>
+          <img src ="Kamar Isi 6 juta.jpg width="200" height="250" xmlns="https://github.com/Nurhidayatulloh/Catatan-KBTW-1/blob/master/Kamar%20Isi%20%206%20juta.jpg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Tipe kamar</text></svg>
         </div>
       </div>
     </div>
