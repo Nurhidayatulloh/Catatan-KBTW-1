@@ -129,7 +129,7 @@ document.onmousedown=showclick;}();}catch(e){}</script></head>
     <nav class="nav d-flex justify-content-between">
       <a class="p-2 text-muted" href="#">Home</a>
       <a class="p-2 text-muted" href="#">Profile</a>
-      <a class="p-2 text-muted" href="#">Tipe Kamar</a>
+      <a class="p-2 text-muted" href="Tipekamar.html">Tipe Kamar</a>
       <a class="p-2 text-muted" href="#">Fasilitas</a>
       <a class="p-2 text-muted" href="#">Kegiatan</a>
       <a class="p-2 text-muted" href="#">Alamat</a>
